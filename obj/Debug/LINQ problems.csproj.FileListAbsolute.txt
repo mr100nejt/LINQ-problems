@@ -1,0 +1,6 @@
+C:\Users\jokes\source\repos\LINQ problems\LINQ problems\bin\Debug\LINQ problems.exe.config
+C:\Users\jokes\source\repos\LINQ problems\LINQ problems\bin\Debug\LINQ problems.exe
+C:\Users\jokes\source\repos\LINQ problems\LINQ problems\bin\Debug\LINQ problems.pdb
+C:\Users\jokes\source\repos\LINQ problems\LINQ problems\obj\Debug\LINQ problems.csprojAssemblyReference.cache
+C:\Users\jokes\source\repos\LINQ problems\LINQ problems\obj\Debug\LINQ problems.exe
+C:\Users\jokes\source\repos\LINQ problems\LINQ problems\obj\Debug\LINQ problems.pdb
